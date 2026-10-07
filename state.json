@@ -5,7 +5,7 @@
   "url": "https://www.pokemoncenter.com/category/new-releases",
   "available": false,
   "price": null,
-  "checkedAt": "2026-10-06T20:24:15.025Z",
+  "checkedAt": "2026-10-06T23:59:43.895Z",
   "chars": 0,
   "blocked": true
  },
@@ -15,7 +15,7 @@
   "url": "https://www.pokemoncenter.com/category/trading-card-game",
   "available": false,
   "price": "$39.99",
-  "checkedAt": "2026-10-06T20:24:24.198Z",
+  "checkedAt": "2026-10-06T23:59:53.063Z",
   "chars": 4319,
   "blocked": false
  },
@@ -24,29 +24,29 @@
   "store": "Pokémon Center",
   "url": "https://www.pokemoncenter.com/product/10-10447-111",
   "available": false,
-  "price": null,
-  "checkedAt": "2026-10-06T20:24:33.358Z",
-  "chars": 0,
-  "blocked": true
+  "price": "$59.99",
+  "checkedAt": "2026-10-07T00:00:02.476Z",
+  "chars": 8062,
+  "blocked": false
  },
  {
   "name": "Mega Evolution Pitch Black Pokemon Center ETB",
   "store": "Pokémon Center",
   "url": "https://www.pokemoncenter.com/product/10-10416-112",
   "available": false,
-  "price": null,
-  "checkedAt": "2026-10-06T20:24:42.451Z",
-  "chars": 0,
-  "blocked": true
+  "price": "$59.99",
+  "checkedAt": "2026-10-07T00:00:13.098Z",
+  "chars": 7722,
+  "blocked": false
  },
  {
   "name": "Target Pokemon trading cards",
   "store": "Target",
   "url": "https://www.target.com/s?searchTerm=pokemon+elite+trainer+box",
   "available": true,
-  "price": "$39.99",
-  "checkedAt": "2026-10-06T20:24:52.360Z",
-  "chars": 7772,
+  "price": "$13.99",
+  "checkedAt": "2026-10-07T00:00:23.136Z",
+  "chars": 7337,
   "blocked": false
  }
 ]
