@@ -5,7 +5,7 @@
   "url": "https://www.pokemoncenter.com/category/new-releases",
   "available": false,
   "price": null,
-  "checkedAt": "2026-11-21T23:15:03.412Z",
+  "checkedAt": "2026-11-22T03:17:20.056Z",
   "chars": 0,
   "blocked": true
  },
@@ -15,7 +15,7 @@
   "url": "https://www.pokemoncenter.com/category/trading-card-game",
   "available": false,
   "price": null,
-  "checkedAt": "2026-11-21T23:15:12.673Z",
+  "checkedAt": "2026-11-22T03:17:29.265Z",
   "chars": 0,
   "blocked": true
  },
@@ -25,7 +25,7 @@
   "url": "https://www.pokemoncenter.com/product/10-10447-111",
   "available": false,
   "price": null,
-  "checkedAt": "2026-11-21T23:15:21.923Z",
+  "checkedAt": "2026-11-22T03:17:38.452Z",
   "chars": 0,
   "blocked": true
  },
@@ -35,7 +35,7 @@
   "url": "https://www.pokemoncenter.com/product/10-10416-112",
   "available": false,
   "price": null,
-  "checkedAt": "2026-11-21T23:15:31.107Z",
+  "checkedAt": "2026-11-22T03:17:47.960Z",
   "chars": 0,
   "blocked": true
  },
@@ -43,10 +43,10 @@
   "name": "Target Pokemon trading cards",
   "store": "Target",
   "url": "https://www.target.com/s?searchTerm=pokemon+elite+trainer+box",
-  "available": true,
-  "price": "$19.99",
-  "checkedAt": "2026-11-21T23:15:40.943Z",
-  "chars": 6990,
+  "available": false,
+  "price": null,
+  "checkedAt": "2026-11-22T03:17:57.601Z",
+  "chars": 1535,
   "blocked": false
  }
 ]
